@@ -1,0 +1,23 @@
+{
+  "name": "maen_blog",
+  "version": "1.0.0",
+  "description": "MEAN Stack blog based application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharopcha/MEAN-Stack-Angular2-Blogger.git"
+  },
+  "author": "Azizmatov Sharofiddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharopcha/MEAN-Stack-Angular2-Blogger/issues"
+  },
+  "homepage": "https://github.com/sharopcha/MEAN-Stack-Angular2-Blogger#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1"
+  }
+}
